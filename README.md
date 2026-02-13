@@ -48,13 +48,19 @@ The only symbols allowed are :
 - Numbers before an item's name to indicate its quantity
 - Numbers inside an item's name
 - Underscores
-This exact syntax should be respected, or the program will likely break. Spaces are not allowed.
+
+This exact syntax should be respected, ==or the program will likely break==.
+
+Spaces are not allowed.
+
 If an item's quantity is 1, the number can be removed (ex : A=B+2*C+D)
 
 To add a comment, start a line with #
+
 Empty lines are ignored
 
 ##### Edge cases :
+
 - Item being both in the base and recipe sections :
     The item will be treated as a recipe.
 - Item being listed in a recipe without either being a base or having its own recipe
