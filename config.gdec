@@ -1,0 +1,9 @@
+:BASE
+foo
+Bar
+BAZ
+
+:RECIPE
+alpha=foo+2*Bar
+ZaB=alpha+BAZ+2*foo
+mimimimimi=ZaB+foo+2*BAZ
