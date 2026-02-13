@@ -11,7 +11,7 @@ Perhaps I will improve it in the future ?
 ##### Usage :
 GDec is a tool allowing the Decomposition of an item's recipe following given recipes.
 
-Its config file (I recoppend using the .gdec extension to spot it easely) is formatted as follows :
+Its config file (I recommend using the .gdec extension to spot it easely) is formatted as follows :
 
 ```
 :BASE
