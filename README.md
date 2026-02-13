@@ -36,18 +36,18 @@ After listing all bases, the (case-sensitive!) :RECIPE beacon should be written.
 Following this beacon, new items can be created from the ones listed in the :BASES section, or in this section.
 
 The syntax behaves as follows :
-\
-    A=x\*B+y\*C
+
+A=x\*B+y\*C
 
 means that the (new) item A is composed of x times the item B, as well as y times the item C.
 
 The only symbols allowed are :
-\
-    - = + *
-    - Uppercase and lowercase letters for item names
-    - Numbers before an item's name to indicate its quantity
-    - Numbers inside an item's name (item names cannot start with a number)
-    - Underscores
+
+- = + *
+- Uppercase and lowercase letters for item names
+- Numbers before an item's name to indicate its quantity
+- Numbers inside an item's name (item names cannot start with a number)
+- Underscores
 This exact syntax should be respected, or the program will likely break. Spaces are not allowed.
 If an item's quantity is 1, the number can be removed (ex : A=B+2*C+D)
 
