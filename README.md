@@ -66,4 +66,4 @@ Empty lines are ignored
 - Item being listed in a recipe without either being a base or having its own recipe
     The program will break. Please do not do that.
 - Item having two recipes
-    TODO : the first one will probably override the second, the latter being further in the catalog array
+    The program will only use the last recipe. 
