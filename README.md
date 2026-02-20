@@ -49,7 +49,7 @@ The only symbols allowed are :
 - Numbers inside an item's name
 - Underscores
 
-This exact syntax should be respected, ==or the program will likely break==.
+This exact syntax should be respected, **or the program will likely break**.
 
 Spaces are not allowed.
 
