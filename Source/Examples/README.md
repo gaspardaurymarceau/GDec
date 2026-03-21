@@ -1,5 +1,7 @@
 # DeForge
 
+### IMPORTANT
+Even after testing the executable in a directory which did not contain a config file to make sure the config file was compiled along with the java executable, it appears that the executable cannot find the config file... So I will soon add the config file to this directory! 
 
 **This file  is an example of what can be done with the GDec algorithm.**
 
