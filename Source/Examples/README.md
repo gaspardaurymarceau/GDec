@@ -1,11 +1,11 @@
 # DeForge
 
 ### IMPORTANT
-Even after testing the executable in a directory which did not contain a config file to make sure the config file was compiled along with the java executable, it appears that the executable cannot find the config file... So I will soon add the config file to this directory!
+> Even after testing the executable in a directory which did not contain a config file to make sure the config file was compiled along with the java executable, it appears that the executable cannot find the config file... So I will soon add the config file to this directory!
 
-**YOU NEED TO USE THIS EXECUTABLE WITH THE `forge.gdec` FILE IN THE CURRENT DIRECTORY**
+> **YOU NEED TO USE THIS EXECUTABLE WITH THE `forge.gdec` FILE IN THE CURRENT DIRECTORY**
 
-**This file  is an example of what can be done with the GDec algorithm.**
+> **This file  is an example of what can be done with the GDec algorithm.**
 
 
 It is an utility for the Skyblock minigame of the Hypixel minecraft server.
